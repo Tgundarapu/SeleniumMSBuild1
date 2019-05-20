@@ -1,0 +1,10 @@
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\bin\Release\SeleniumMSBuild1.exe.config
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\bin\Release\SeleniumMSBuild1.exe
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\bin\Release\SeleniumMSBuild1.pdb
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\obj\Release\SeleniumMSBuild1.csprojAssemblyReference.cache
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\obj\Release\SeleniumMSBuild1.csproj.CoreCompileInputs.cache
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\obj\Release\SeleniumMSBuild1.exe
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\obj\Release\SeleniumMSBuild1.pdb
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\bin\Release\WebDriver.dll
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\bin\Release\WebDriver.xml
+E:\Ratan\Visual_Studio_Project\SeleniumMSBuild1\SeleniumMSBuild1\obj\Release\SeleniumMSBuild1.csproj.CopyComplete
